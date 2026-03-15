@@ -1,0 +1,54 @@
+Test Case 1 :
+Enter student name: Priya
+Enter marks (0-100): 85
+
+📊 RESULT FOR PRIYA
+Marks: 85 /100
+Grade: B
+Message: Very Good! Keep it up! 👍
+
+Test Case 2 :
+Enter student name: Varsha
+Enter marks (0-100): 98
+
+📊 RESULT FOR VARSHA
+Marks: 98 /100
+Grade: A
+Message: Excellent work! Keep shining! 🌟
+
+Test Case 3 :
+Enter student name: Varunya
+Enter marks (0-100): 73
+
+📊 RESULT FOR VARUNYA
+Marks: 73 /100
+Grade: C
+Message: Good effort! You can do even better! 💪
+
+Test Case 4 :
+Enter student name: Varshith
+Enter marks (0-100): 62
+
+📊 RESULT FOR VARSHITH
+Marks: 62 /100
+Grade: D
+Message: You passed! Try to improve next time. 📘
+
+Test Case 5 :
+Enter student name: Divya
+Enter marks (0-100): 33
+
+📊 RESULT FOR DIVYA
+Marks: 33 /100
+Grade: F
+Message: Don't give up! Work harder and try again. 🔄
+
+Test Case 6 :
+Enter student name: Hema
+Enter marks (0-100): -8
+Marks must be between 0 and 100. Please try again.
+Enter marks (0-100): Hema
+Invalid input! Please enter a number.
+Enter marks (0-100): 120
+Marks must be between 0 and 100. Please try again.
+Enter marks (0-100):
